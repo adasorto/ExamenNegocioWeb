@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/adasorto/ExamenNegocioWeb/issues"
   },
-  "homepage": "https://github.com/adasorto/ExamenNegocioWeb#readme"
+  "homepage": "https://github.com/adasorto/ExamenNegocioWeb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.21.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
