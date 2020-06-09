@@ -4,14 +4,15 @@
   "description": "Examen de Negocio Web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adasorto/ExamenNegocioWeb.git"
   },
   "keywords": [
-    "NodeJs",
+    "Amortización",
     "Examen",
     "Negocio Web"
   ],
@@ -22,8 +23,7 @@
   },
   "homepage": "https://github.com/adasorto/ExamenNegocioWeb#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "sequelize": "^5.21.12"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
