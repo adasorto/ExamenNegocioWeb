@@ -1,0 +1,24 @@
+{
+  "name": "ExamenNegocioWeb",
+  "version": "1.0.0",
+  "description": "Examen de Negocio Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adasorto/ExamenNegocioWeb.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Examen",
+    "Negocio Web"
+  ],
+  "author": "Ada Jensy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adasorto/ExamenNegocioWeb/issues"
+  },
+  "homepage": "https://github.com/adasorto/ExamenNegocioWeb#readme"
+}
