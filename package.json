@@ -1,0 +1,32 @@
+{
+  "name": "ExamenNegocioWeb",
+  "version": "1.0.0",
+  "description": "Examen de Negocio Web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adasorto/ExamenNegocioWeb.git"
+  },
+  "keywords": [
+    "Amortización",
+    "Examen",
+    "Negocio Web"
+  ],
+  "author": "Ada Jensy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adasorto/ExamenNegocioWeb/issues"
+  },
+  "homepage": "https://github.com/adasorto/ExamenNegocioWeb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
